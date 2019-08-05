@@ -1,0 +1,14 @@
+{
+  "name": "promise",
+  "version": "1.0.0",
+  "description": "promise test",
+  "main": "index.js",
+  "scripts": {
+    "test": "promises-aplus-tests ./promise.js"
+  },
+  "keywords": [
+    "promise"
+  ],
+  "author": "xuehaoyu",
+  "license": "ISC"
+}
